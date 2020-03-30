@@ -4,7 +4,7 @@
 
 **End point:** GET /orders/1
 
-'''json
+```json
 {
   "orders": [
     {
@@ -19,6 +19,6 @@
     }
   ]
 }
-'''
+```
 
 
